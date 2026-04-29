@@ -41,6 +41,7 @@ genre-classification-dataset-imdb/
 *.joblib
 *.model
 *.bin
+!models/genre_model.joblib
 
 # Gradio local files
 .gradio/
